@@ -1,0 +1,201 @@
+From,To,Date,Flight,Seats
+Seattle,Houston,19/04/2025,PY348,18
+Seattle,San Francisco,29/05/2025,ZU581,5
+Boston,Seattle,29/05/2025,ZU111,15
+Seattle,New York,03/05/2025,PY681,19
+New York,Seattle,08/04/2025,PY167,16
+Seattle,Boston,16/04/2025,PY349,20
+Seattle,Houston,17/04/2025,GS222,6
+Houston,New York,07/05/2025,GS904,1
+San Francisco,Boston,15/05/2025,PY908,10
+San Francisco,Houston,19/04/2025,GS958,3
+Seattle,New York,15/03/2025,PY471,3
+Seattle,San Francisco,19/04/2025,GS652,18
+San Francisco,Seattle,25/03/2025,ZU270,7
+San Francisco,Boston,22/03/2025,PY325,6
+Chicago,San Francisco,17/04/2025,MT412,1
+Boston,Seattle,15/05/2025,ZU269,0
+Seattle,Houston,04/03/2025,MT657,18
+Boston,Houston,09/03/2025,MT607,17
+New York,Boston,30/03/2025,PY686,9
+San Francisco,Houston,21/05/2025,ZU165,7
+Houston,New York,01/04/2025,ZU908,15
+Seattle,Houston,10/03/2025,PY541,7
+Seattle,Houston,23/05/2025,ZU423,6
+Houston,Seattle,10/03/2025,ZU641,6
+Seattle,Boston,17/03/2025,ZU156,6
+San Francisco,Houston,09/04/2025,GS517,9
+Chicago,Boston,17/05/2025,PY499,15
+Chicago,Boston,08/04/2025,ZU718,8
+Seattle,Houston,24/04/2025,MT601,11
+Boston,Seattle,28/04/2025,MT251,5
+New York,Boston,25/04/2025,PY952,3
+San Francisco,Chicago,01/04/2025,PY230,2
+San Francisco,Seattle,08/03/2025,GS490,7
+Chicago,Seattle,07/03/2025,MT446,19
+San Francisco,New York,01/03/2025,MT579,17
+Chicago,Seattle,02/04/2025,ZU992,20
+Chicago,Boston,01/03/2025,MT954,5
+Chicago,San Francisco,26/03/2025,ZU956,6
+Seattle,Chicago,30/04/2025,PY827,14
+New York,Chicago,13/04/2025,PY662,14
+New York,Boston,13/04/2025,PY930,9
+Chicago,Seattle,27/03/2025,GS407,3
+New York,Seattle,14/03/2025,GS371,7
+New York,San Francisco,01/04/2025,MT279,0
+San Francisco,Houston,31/03/2025,ZU986,9
+Chicago,Houston,25/04/2025,ZU881,1
+Houston,Chicago,01/05/2025,ZU231,1
+Seattle,New York,09/03/2025,ZU573,10
+New York,San Francisco,17/04/2025,GS754,0
+New York,Seattle,28/04/2025,MT298,19
+Seattle,Boston,29/05/2025,MT552,5
+Boston,San Francisco,08/03/2025,MT781,8
+Chicago,New York,22/04/2025,PY943,17
+New York,Chicago,06/05/2025,GS944,17
+Seattle,San Francisco,27/04/2025,GS622,4
+Chicago,Seattle,06/04/2025,PY644,12
+Chicago,San Francisco,03/05/2025,GS154,6
+San Francisco,Boston,25/04/2025,ZU893,20
+Seattle,Chicago,17/04/2025,PY519,14
+New York,Seattle,20/03/2025,ZU584,13
+San Francisco,Seattle,20/05/2025,ZU625,16
+Houston,Chicago,15/03/2025,GS435,4
+Boston,Houston,28/03/2025,GS386,2
+Boston,New York,13/04/2025,ZU385,12
+Seattle,New York,15/03/2025,GS452,19
+San Francisco,Seattle,17/04/2025,ZU875,1
+Chicago,Boston,11/04/2025,ZU592,8
+Chicago,San Francisco,29/03/2025,MT390,12
+Seattle,Chicago,19/05/2025,PY477,15
+Chicago,San Francisco,01/05/2025,ZU398,4
+Houston,Chicago,25/03/2025,MT943,17
+Houston,Boston,09/03/2025,MT152,11
+New York,Boston,29/05/2025,PY126,2
+San Francisco,Boston,19/03/2025,GS528,3
+New York,San Francisco,12/03/2025,PY988,20
+Boston,New York,03/03/2025,MT685,3
+Chicago,San Francisco,11/05/2025,MT317,7
+Chicago,Houston,08/05/2025,ZU527,16
+New York,Boston,02/03/2025,MT934,16
+Houston,San Francisco,13/04/2025,GS499,6
+Chicago,Seattle,05/04/2025,GS381,19
+San Francisco,Houston,25/03/2025,PY232,9
+San Francisco,Houston,26/05/2025,MT280,5
+Seattle,New York,21/04/2025,MT823,16
+New York,Seattle,26/03/2025,ZU186,7
+New York,Boston,19/05/2025,PY108,7
+San Francisco,New York,27/03/2025,PY986,12
+Chicago,Houston,09/05/2025,GS152,19
+Houston,Seattle,25/04/2025,ZU402,3
+San Francisco,Seattle,03/05/2025,MT286,2
+New York,Chicago,13/03/2025,GS499,7
+Chicago,San Francisco,24/05/2025,GS586,5
+Houston,Boston,24/04/2025,MT432,9
+Seattle,Boston,17/03/2025,ZU715,9
+Chicago,San Francisco,02/03/2025,PY148,20
+Boston,Houston,01/03/2025,GS769,12
+Houston,San Francisco,15/03/2025,GS109,16
+Boston,San Francisco,15/03/2025,ZU300,6
+New York,Seattle,01/04/2025,GS839,8
+San Francisco,Seattle,13/05/2025,ZU499,7
+Chicago,Seattle,24/03/2025,PY465,20
+San Francisco,Seattle,25/04/2025,PY667,14
+Boston,Seattle,11/05/2025,GS669,0
+San Francisco,Chicago,04/05/2025,PY810,20
+San Francisco,Chicago,30/05/2025,GS940,3
+Boston,San Francisco,25/04/2025,GS300,5
+Boston,Chicago,14/03/2025,GS152,2
+San Francisco,New York,09/04/2025,MT210,5
+Boston,Seattle,25/05/2025,ZU218,11
+Chicago,Houston,08/04/2025,GS486,12
+Boston,San Francisco,23/05/2025,ZU250,12
+Seattle,San Francisco,10/04/2025,ZU509,0
+Seattle,Boston,29/04/2025,PY546,13
+San Francisco,Boston,20/05/2025,ZU378,7
+Boston,Seattle,06/04/2025,PY879,14
+Houston,Boston,10/05/2025,PY287,15
+Boston,New York,09/04/2025,GS240,19
+San Francisco,Chicago,27/03/2025,PY119,9
+New York,Chicago,13/05/2025,ZU348,0
+Seattle,Boston,08/03/2025,PY675,18
+San Francisco,Houston,17/04/2025,ZU422,0
+New York,San Francisco,28/05/2025,MT260,19
+Seattle,Boston,13/03/2025,MT531,16
+Chicago,Boston,18/04/2025,PY557,11
+Boston,San Francisco,08/05/2025,ZU722,17
+Seattle,Boston,01/05/2025,MT815,11
+Chicago,Boston,30/04/2025,PY233,13
+Boston,New York,23/04/2025,GS284,20
+San Francisco,Chicago,17/05/2025,MT175,4
+San Francisco,Houston,02/04/2025,GS240,8
+New York,Houston,23/03/2025,PY808,8
+Chicago,Seattle,10/04/2025,PY237,8
+Boston,Houston,02/03/2025,GS997,20
+Boston,Houston,17/04/2025,MT681,4
+Houston,San Francisco,18/05/2025,GS513,10
+Seattle,Chicago,21/03/2025,MT913,3
+New York,San Francisco,12/04/2025,GS679,3
+New York,Houston,30/03/2025,GS831,9
+New York,San Francisco,06/04/2025,MT513,13
+New York,San Francisco,12/04/2025,GS247,3
+Houston,San Francisco,01/03/2025,GS840,4
+Seattle,Chicago,14/05/2025,PY582,8
+San Francisco,Seattle,15/05/2025,PY525,6
+San Francisco,Boston,14/04/2025,MT106,0
+Houston,Boston,28/05/2025,ZU173,1
+New York,San Francisco,31/03/2025,PY887,2
+San Francisco,Seattle,07/04/2025,MT767,2
+Houston,New York,30/04/2025,GS145,9
+Seattle,San Francisco,19/05/2025,GS879,10
+Boston,Chicago,27/03/2025,PY462,18
+San Francisco,Boston,05/04/2025,GS337,20
+Houston,New York,23/05/2025,ZU194,3
+Houston,Chicago,14/03/2025,MT854,10
+San Francisco,New York,19/03/2025,PY458,0
+San Francisco,Chicago,29/05/2025,PY368,9
+Houston,Boston,26/04/2025,GS206,17
+Seattle,New York,16/04/2025,MT160,18
+Seattle,New York,07/03/2025,ZU163,0
+Boston,New York,06/05/2025,GS876,5
+San Francisco,Chicago,12/03/2025,MT757,18
+San Francisco,New York,21/03/2025,MT961,20
+New York,Seattle,13/05/2025,PY551,10
+San Francisco,New York,04/05/2025,GS320,17
+Boston,San Francisco,24/04/2025,GS739,0
+Boston,San Francisco,21/03/2025,MT374,10
+Chicago,New York,02/03/2025,PY205,0
+San Francisco,Boston,31/03/2025,GS397,4
+New York,Seattle,21/03/2025,GS228,15
+Chicago,New York,06/05/2025,MT385,9
+New York,Seattle,11/03/2025,GS798,12
+New York,Chicago,05/03/2025,GS811,10
+Houston,San Francisco,31/03/2025,ZU365,7
+Boston,Chicago,01/05/2025,ZU587,12
+New York,Houston,27/05/2025,ZU232,3
+San Francisco,Houston,26/03/2025,MT996,14
+Boston,New York,30/05/2025,MT916,4
+San Francisco,Houston,10/04/2025,PY465,18
+Boston,Seattle,20/04/2025,GS324,10
+Boston,Chicago,11/05/2025,ZU992,19
+Houston,New York,02/05/2025,ZU426,16
+Houston,Chicago,29/04/2025,GS762,11
+San Francisco,Chicago,17/05/2025,MT135,0
+San Francisco,New York,21/05/2025,MT163,1
+New York,San Francisco,11/04/2025,PY373,2
+Chicago,Boston,26/05/2025,GS768,0
+Chicago,Houston,09/04/2025,GS668,16
+Chicago,Seattle,17/04/2025,MT501,3
+Seattle,Chicago,15/03/2025,PY673,0
+Chicago,Boston,25/03/2025,PY921,17
+San Francisco,Seattle,21/04/2025,GS709,6
+Seattle,Boston,24/04/2025,PY845,2
+Seattle,Boston,21/03/2025,ZU359,20
+Boston,San Francisco,21/03/2025,MT814,8
+New York,Boston,19/04/2025,MT931,4
+Houston,New York,21/05/2025,PY209,19
+Chicago,New York,07/04/2025,GS959,12
+San Francisco,Houston,26/05/2025,MT930,14
+New York,Chicago,12/03/2025,ZU230,8
+New York,Boston,08/03/2025,GS537,8
+Seattle,Chicago,16/04/2025,GS561,11
