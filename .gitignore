@@ -28,4 +28,11 @@ hs_err_pid*
 __pycache__/
 .pytest_cache/
 
-.venv
+# Output of pytest unit tests
+**/results.json
+
+
+# Virtual environment directories
+/.venv
+/env
+/venv
